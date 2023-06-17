@@ -24,4 +24,4 @@ function generateShape(integer){
        } 
      }
      return res;
-   }
+}

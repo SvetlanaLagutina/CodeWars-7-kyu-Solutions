@@ -31,4 +31,4 @@ function isPerfect(n) {
       }
     }
     return sum == n;
-  }
+}
